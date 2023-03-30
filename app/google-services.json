@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981618232498",
+    "project_id": "user-registration-829da",
+    "storage_bucket": "user-registration-829da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981618232498:android:8b895060317dd0568d4dab",
+        "android_client_info": {
+          "package_name": "com.karamlyy.user_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981618232498-btnqq3qr751988s9uhgfev1o25nh9crl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1ghGQydFFqcCfivxeJeR2-noUGOuFYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981618232498-btnqq3qr751988s9uhgfev1o25nh9crl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
